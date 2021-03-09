@@ -12,3 +12,5 @@ if (!global.atob) global.atob = decode;
 export default function App() {
   return <Navigation />;
 }
+
+//ricardo esccurra toco esta linea de codigo
